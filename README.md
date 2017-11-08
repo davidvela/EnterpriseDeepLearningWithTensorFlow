@@ -15,8 +15,11 @@ intro to DL and NN
 ## Week 2: Building Tensorflow applications
 Tensorflow Serving - last unit. 
 
-
 ## Week 3: Deep Networks and Sequence Models
+sequential models + embeddings
+Word2Vec, Prod2Vec ... 
+
+
 ## Week 4: Convolutional Networks 
 ## Week 5: Industry Applications of Deep Learning
 ## Week 6: Advanced Deep Learning Topics
